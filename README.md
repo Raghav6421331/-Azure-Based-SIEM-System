@@ -3,37 +3,37 @@ Developed SIEM a software solution designed to provide real-time analysis of int
 
 INDEX
 Topics 	P. No
-1. Introduction	5-7
+1. Introduction	 
    - Purpose and importance of a Security Information and Event Management (SIEM) system	
    - Project goals and objectives	
-2. Preview of Technical Steps	8-9
-3. Creating Azure Subscription	10-11
-4. Creating Virtual Machine	12-15
-5. Set up Microsoft Defender for Cloud	16-17
-6. Creating Log Analytics Workspace	18-20
-7. Enabling Gathering VM Logs in Security Center	21-21
-8. Connecting Log Analytics to VM	22-22
-9. Setting up Azure Sentinel	23-24
-10. Logging into VM with Remote Desktop (Failed Logon)	25-26
-11. Observing Event Viewer Logs in VM	27-28
-12. Turning off Windows Firewall on VM	29-30
-13. Create PowerShell Script	31-36
-14. Obtaining Geolocation.io API Key	37-39
-15. Running Script to Retrieve Geo Data of Attackers	40-41
-16. Creating Custom Log in Log Analytics Workspace	42-43
-17. Creating Custom Fields/Extracting Fields from Raw Custom Log Data	44-45
-18. Testing Extracts	46-46
-19. Setting up Map in Sentinel with Latitude and Longitude (or Country)	47-48
-20. Fixing Map Plot Sizes	49-49
-21. Attack Scenario: China Begins Attacking	50-51
-22. Attack Scenario: Taiwan Joins the Attack	52-53
-23. Attack Scenario: Philippines Joins the Attack	54-55
-24. Attack Scenario: Russia + Rest of the World Join in on the Attack	56-57
-25. Final Check on Map	58-58
-26. Final Thoughts and Takeaways	59-59
-27. Attack Report Red Team	60-69
-28. Conclusion	70-70
-29. References	70-70
+2. Preview of Technical Steps	 
+3. Creating Azure Subscription	 
+4. Creating Virtual Machine	 
+5. Set up Microsoft Defender for Cloud	 
+6. Creating Log Analytics Workspace	 
+7. Enabling Gathering VM Logs in Security Center	 
+8. Connecting Log Analytics to VM	 
+9. Setting up Azure Sentinel	 
+10. Logging into VM with Remote Desktop (Failed Logon)	 
+11. Observing Event Viewer Logs in VM	 
+12. Turning off Windows Firewall on VM	 
+13. Create PowerShell Script	 
+14. Obtaining Geolocation.io API Key	 
+15. Running Script to Retrieve Geo Data of Attackers	 
+16. Creating Custom Log in Log Analytics Workspace	 
+17. Creating Custom Fields/Extracting Fields from Raw Custom Log Data	 
+18. Testing Extracts	 
+19. Setting up Map in Sentinel with Latitude and Longitude (or Country)	 
+20. Fixing Map Plot Sizes	 
+21. Attack Scenario: China Begins Attacking	 
+22. Attack Scenario: Taiwan Joins the Attack	 
+23. Attack Scenario: Philippines Joins the Attack	 
+24. Attack Scenario: Russia + Rest of the World Join in on the Attack	 
+25. Final Check on Map	 
+26. Final Thoughts and Takeaways	 
+27. Attack Report Red Team 
+28. Conclusion	 
+29. References	 
 	Introduction
 
 Purpose and importance of a Security Information and Event Management (SIEM) system 
